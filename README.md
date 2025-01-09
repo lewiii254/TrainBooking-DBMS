@@ -22,7 +22,7 @@ The database is designed using **MySQL** and follows a relational model with pri
 
 ### Entity-Relationship Diagram (ERD):
 
-![ERD](Train%20Booking%20ERD.jpg)
+
 
 ### Key Entities:
 
@@ -130,18 +130,6 @@ We welcome contributions! If you'd like to improve the database design or add mo
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 💡 Acknowledgments
-
-- MySQL Workbench for database design and management.
-- The open-source community for fostering collaboration and learning.
-
----
 
 ## 📬 Contact
 
