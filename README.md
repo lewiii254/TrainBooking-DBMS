@@ -128,16 +128,5 @@ We welcome contributions! If you'd like to improve the database design or add mo
 2. Create a new branch.
 3. Submit a pull request with your changes.
 
----
-
-
-## 📬 Contact
-
-If you have any questions, suggestions, or feedback, feel free to reach out to:
-
-**Marklewis Mutugi**  
-*Software Engineer*  
-[GitHub Profile](https://github.com/lewiii254)
-
----
+--
 
